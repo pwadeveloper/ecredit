@@ -521,7 +521,7 @@ img {
   margin: 0 0 30px;
   letter-spacing: 1px;
   font-size: 45px;
-  line-height: 45px;
+  line-height: 1.5em;
 }
 .home-banner .home-left p {
   color: #fff;
