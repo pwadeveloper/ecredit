@@ -1217,7 +1217,10 @@ input:focus{
   background-repeat: no-repeat;
 }
 .how-it-works2{
-  background-image: url(../img/creditUnion_bg05.jpg);
+ 
+  background: -webkit-linear-gradient(to right, #021B79, #0575E6);
+  background: linear-gradient(to right, #021B79, #0575E6);
+  background-image:;
   background-size: cover;
   background-repeat: no-repeat;
 }
